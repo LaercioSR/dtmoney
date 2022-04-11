@@ -1,10 +1,12 @@
+import { TransactionTable } from "../TransactionTable";
 import { Summary } from "../Summary";
 import { Container } from "./style";
 
 export function Dashboard() {
   return (
     <Container>
-      <Summary></Summary>
+      <Summary />
+      <TransactionTable />
     </Container>
   );
 }

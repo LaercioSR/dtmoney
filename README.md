@@ -54,3 +54,6 @@ The following tools were used in building the project:
 
 - **[TypeScript](https://www.typescriptlang.org/)**
 - **[React](https://pt-br.reactjs.org/)**
+  - [Styled Components](https://styled-components.com/)
+  - [MirageJs](https://miragejs.com/)
+  - [Axios](https://axios-http.com/ptbr/docs/intro)

@@ -8,7 +8,7 @@
 </p>
 
 <h4 align="center">
-🚧  Finished in Progress  🚧
+✅  Finished Project  ✅
 </h4>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 ## About
 
-Repository containing the project developed during the Ignite track of React from [Rocketseat](https://www.rocketseat.com.br/).
+System for personal finance, for control of income entries and outcome expenses. Repository containing the project developed during the Ignite track of React from [Rocketseat](https://www.rocketseat.com.br/).
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/LaercioSR/dtmoney/main/public/screenshot.png" height="auto" width="80%" alt="Screenshot" />
-</p> -->
+</p>
 
 ## How to Run
 
@@ -44,7 +44,7 @@ $ cd dtmoney
 $ npm install
 
 # Run the application with the following command
-$ npm run dev
+$ npm run start
 # If everything is correct, the application can be accessed through the URL http://localhost:3000
 ```
 
@@ -57,3 +57,4 @@ The following tools were used in building the project:
   - [Styled Components](https://styled-components.com/)
   - [MirageJs](https://miragejs.com/)
   - [Axios](https://axios-http.com/ptbr/docs/intro)
+  - [React Modal](https://github.com/reactjs/react-modal)
